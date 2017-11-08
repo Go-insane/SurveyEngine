@@ -72,7 +72,29 @@ b)create all the packages under src in your project manualy   with exact same na
 c) Now go to project directory or location in your system then in src--copy all files of each package individually from my packages in src folder to yours( do not copy package folder , instead go inside the package and copy the containing files in  yours) 
 
 
+3. Create the required database tables in oracle that you will require in this project
+I have provided pics of the description of the tables....
+There are 4 tables 
+Create them as it us.
+Simple create commands are required to create these tables
 
+
+
+4 . Now you are ready to Go!!!
+Just change the username password to your own Oracle database
+Go to the DBConn package which includes the only connection point to the complete project and replace 'username' and 'password' with you own
+
+
+5. I have provided all the required jars also
+Include all the jars to your project classpath before running it
+(Google it ...how to add jars in a project in your your ide)
+
+
+
+Woahhhh!!! It's done.....Now you are ready to run this project
+--------------------------------------------------------------
+
+Please dont forget to star rate it and also please contribute to the repo and provide updates
 
 
 
